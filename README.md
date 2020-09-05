@@ -38,12 +38,8 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 
 ## Dependências
 
-- [Express](https://expressjs.com/ "Express")
-- [KnexJS](http://knexjs.org/ "KnexJS")
-- [SQLite3](https://www.npmjs.com/package/sqlite3 "SQLite3")
 - [Axios](https://www.npmjs.com/package/axios "Axios")
 - [Expo Google Fonts](https://github.com/expo/google-fonts " [Expo Google Fonts]")
-
 
 ------------
 ## 🤔 Como ajudar
